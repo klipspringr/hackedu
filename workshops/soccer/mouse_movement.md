@@ -23,7 +23,7 @@ gray_):
   (#walk-through-of-the-code-step-by-step)
     - Recommended for those who
       - are beginners
-      - who want an in depth understanding of the code
+      - want an in depth understanding of the code
 - [**Give me a brief overview of this code.**](#brief-overview-of-the-code)
     - Recommended for those who
       - have more experience
@@ -34,10 +34,10 @@ gray_):
 
 ## Deciding Where to Write the Code
 
-Whenever we want to set the position of the sprite to be wherever our mouse is.
+We want to set the position of the sprite to be wherever our mouse is.
 
 We don't want to do this just once, we want to do it _forever_. Because we want
-to do it forever, let's write it in `draw function`
+to do it forever, let's write it in `draw function`.
 
 ## Setting the Position of the Sprite
 
@@ -82,18 +82,18 @@ player.position.y = mouseY;
 
 ![](img/3_write-b_mouse_y.gif)
 
-### And that's a wrap
+### And that's a wrap!
 
-The section immediately below section is the "Give me a brief overview of this
+The section immediately below is the "Give me a brief overview of this
 code". You already did the "Walk me through this code step-by-step" section so
-no need to do it.
+there's no need to do it.
 
 [Click here to skip to the next section.](#next-up)
 
 # Brief Overview of the Code
 
 Reproduced below is the code that sets the player sprite's position to the
-position of the mouse
+position of the mouse.
 
 New lines marked with `// <-- NEW LINE`.
 
